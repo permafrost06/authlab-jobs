@@ -25,7 +25,7 @@ Padding=10,5,10,3
 [HeadingStyle]
 FonSize=14
 FontWeight=700
-Padding=10,15,10,4
+Padding=10,10,10,4
 
 [Column1]
 W=320
@@ -41,6 +41,7 @@ heading = """
 [HeadingNameMeter]
 Meter=String
 MeterStyle=TextStyle | HeadingStyle | Column1
+X=5
 Text=Job Listing
 
 [HeadingExperienceMeter]
@@ -58,10 +59,18 @@ ulMeter = """
 [HeadingUnderline]
 Meter=Image
 Y=R
-X=5
+X=10
 W=510
 H=2
 SolidColor=236,233,224
+
+[Blank]
+Meter=Image
+X=R
+Y=r
+W=10
+H=5
+SolidColor=48,48,48
 """
 
 MainMeasure = """
