@@ -1,4 +1,4 @@
-### This skin no longer works since authlab doesn't publish job listings to its website anymore. It was fun while it lasted!
+### This skin no longer works since authlab doesn't publish job listings to its website anymore. It was fun (and useful!) while it lasted...
 # authlab-jobs
 A rainmeter skin that shows the current vacancies on authlab's [website](http://authlab.io/jobs)
 
